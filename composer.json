@@ -1,0 +1,7 @@
+{
+    "name": "my-php-project",
+    "description": "A simple PHP project to test Jenkins integration.",
+    "require": {
+        "monolog/monolog": "^2.0"
+    }
+}
